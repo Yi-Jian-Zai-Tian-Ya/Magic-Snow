@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ms:item/king_air_block"
+  },
+  "render_type": "translucent"
+}

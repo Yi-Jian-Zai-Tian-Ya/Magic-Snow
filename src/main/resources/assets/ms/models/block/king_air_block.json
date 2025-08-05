@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ms:block/king_air_block"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "ms.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.ms.refmap.json",
+  "mixins": [
+    "HopperExperienceMixin",
+    "ExperienceOrbAccessor"
+  ],
+  "client": [],
+  "server": [],
+  "minVersion": "0.8.5"
+}

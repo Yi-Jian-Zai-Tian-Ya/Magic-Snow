@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/powder_snow",
+  "textures": {
+    "texture": "ms:block/magic_snow"
+  }
+}
